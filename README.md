@@ -1,4 +1,5 @@
-**Event Festival Budaya **
+**Event Festival Budaya**
+
 Aplikasi Event Festival Budaya adalah aplikasi informasi sekaligus tempat untuk pembelian tiket event budaya yang kami rancang terinspirasi dari Karisma Event Nusantara (KEN). KEN sendiri adalah sendiri strategi kolaborasi antara Kemenparekraf RI dan daerah untuk menyelenggarakan event berkualitas. Tujuannya adalah mempromosikan destinasi wisata dan ekonomi kreatif, meningkatkan kunjungan wisatawan, memberdayakan potensi lokal, serta memberikan dampak positif terhadap ekonomi, sosial budaya, dan lingkungan dengan prinsip pembangunan berkelanjutan.
 
 Aplikasi ini memiliki beberapa menu utama, yaitu:
