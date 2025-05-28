@@ -12,3 +12,5 @@ Aplikasi ini memiliki beberapa menu utama, yaitu:
 5. My Tiket: menampilkan tabel tiket yang telah dipesan
 6. Logout: Menu untuk keluar dari tampilan utama aplikasi.
    Dengan semua fitur ini aplikasi diharapkan dapat membantu user menemukan dan menikmati berbagai festival budaya di Indonesia dengan lebih mudah.
+
+> Created with ❤️
