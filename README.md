@@ -14,4 +14,5 @@ Aplikasi ini memiliki beberapa menu utama, yaitu:
    Dengan semua fitur ini aplikasi diharapkan dapat membantu user menemukan dan menikmati berbagai festival budaya di Indonesia dengan lebih mudah.
 ###
 
-> Created with Lian, Gea, Indah❤️
+> Created with Lidan
+
